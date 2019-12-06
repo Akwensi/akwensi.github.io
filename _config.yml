@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Justice Akwensi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio.jpeg"
   bio              : "Data Engineering enthusiast"
   location         : "Accra, Ghana"
   email            : "justiceakwensi@gmail.com"
