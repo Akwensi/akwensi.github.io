@@ -272,7 +272,7 @@ tag_archive:
 
 
 # HTML Compression
- - https://jch.penibelst.de/
+- https://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
@@ -293,7 +293,7 @@ defaults:
       share: true
       related: true
 
-   pages
+  # _pages
   - scope:
       path: ""
       type: pages
