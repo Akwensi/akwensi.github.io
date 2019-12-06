@@ -1,6 +1,5 @@
 ---
 title: "About"
-layout: single
 permalink: /about/
 header:
     image: "/images/data-engineering-banner.jpg"
