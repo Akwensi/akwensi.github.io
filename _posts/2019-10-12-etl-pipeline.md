@@ -13,10 +13,4 @@ Here is a [link](https://github.com/Akwensi/project1) to the jupyter notebookfil
 You can download folow along
 1. confirm the file exist in the s3 bucket
 2. use the boto3 library to download the data locally
-etc. etc
-
-Python code block:
-    ```python
-        import boto3
-        import Pandas as pd
         
