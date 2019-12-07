@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /About/
   - title: "project"
-    url: /data_engineering/
+    url: /data_engineeringgit/
   - title: "Project Title"
     url:  /project/
   # - title: "Sample Collections"
