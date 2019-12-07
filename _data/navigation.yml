@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "About"
-    url: /About/
+    url: /about/
   - title: "project"
-    url: /data_engineeringgit/
-  - title: "Project Title"
-    url:  /project/
+    url: /project/
+  # - title: "Project Title"
+  #   url:  /project/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
