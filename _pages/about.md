@@ -5,4 +5,16 @@ header:
   image: "/images/bio.jpeg"
 ---
 
-I am a data e ngineer with experience in using python data libraries like pandas and numpy in collaboration with other technologies like POSTGRES and cloud platforms like GCLOUD bigquery and AWS Kinesis to solve real world issues. I am also versed in web scraping by using python BeautifulSoup library.
+I am a Traineer **Data Engineer** with Blossom Academy, with about a years experience in data engineering. 
+
+I a Medicinal Chemist by education where I hold an MPhil in Medicinal Chemistry from the University of Ghana. But by way of enthusism and keen interest, I am able to solve real life issues with the following tools and technologies.
+
+**Technologies**
+Python
+Postgres
+Cloud Computing
+ChemDraw
+MestreNova
+
+**Skills and tools**
+Pandas, Aparche Spark, Numpy, PostgreSQL, AWS-S3, AWS-Kinesis, GCloud, Boto3, BeautifulSoup, and Requests.  
