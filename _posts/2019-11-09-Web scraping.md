@@ -7,12 +7,12 @@ header:
 excerpt: "Data engineering, Data Science, web scraping"
 mathjax: "true"
 
-title: "Basic ETL Project"
-date: 2018-01-28
-tags: [extract, transform, load data science, data]
+title: "Web Scraping"
+date: 2019-11-14
+tags: [web scraping, scraping, batch processing, BeautifulSoup, requests, data mining]
 header:
-  image: "/images/data-engineering-2.jpeg.jpeg"
-excerpt: "Data engineering, Data Science, Data"
+  image: "/images/webscraping.jpg"
+excerpt: "Data engineering, Data Science, web scraping"
 mathjax: "true"
 ---
 

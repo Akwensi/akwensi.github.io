@@ -7,12 +7,12 @@ header:
 excerpt: "Data engineering, Data Science, ngrams, trigrams"
 mathjax: "true"
 
-title: "Basic ETL Project"
-date: 2018-01-28
-tags: [extract, transform, load data science, data]
+title: "Batch Processing"
+date: 2019-10-17
+tags: [batch processing, transform, spark, pyspark, data mining, ngrams, bigrams trigrams]
 header:
-  image: "/images/data-engineering-2.jpeg.jpeg"
-excerpt: "Data engineering, Data Science, Data"
+  image: "/images/batch processing.jpeg"
+excerpt: "Data engineering, Data Science, ngrams, trigrams"
 mathjax: "true"
 ---
 
