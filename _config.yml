@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "JUSTICE AKWENSI"
-  avatar           : "/images/111.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/biobio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Engineering Portfolio"
   location         : "Your Location"
   email            :

@@ -8,10 +8,9 @@ excerpt: "Data engineering, Data Science, Data"
 mathjax: "true"
 ---
 
-# Basic ETL pipeline
 This project aimed at building a basic ETL pipeline to read data from a source (**AWS**), transform this data by doing some **aggregations** and then loading the output into a prescribed location ie s3 **bucket** on AWS
 
-Here is the [link](https://github.com/Akwensi/Basic-ETL-pipeline-project1)? to the **Jupiter Notebook** file used in the project.  
+Here is the [link](https://github.com/Akwensi/Basic-ETL-pipeline-project1) to the **Jupiter Notebook** file used in the project.  
 
 *Pandas* and *Amazon Simple Storage Service(S3)* are the main technologies used in this project.
 

@@ -6,14 +6,20 @@ header:
   image: "/data-engineering-banner.jpg"
 excerpt: "Data engineering, Data Science, ngrams, trigrams"
 mathjax: "true"
----
 
-# Batch Processing
+title: "Basic ETL Project"
+date: 2018-01-28
+tags: [extract, transform, load data science, data]
+header:
+  image: "/images/data-engineering-2.jpeg.jpeg"
+excerpt: "Data engineering, Data Science, Data"
+mathjax: "true"
+---
 
 This project aimed at investigating the top keywords companies within various cities in the US require data scientists to have in their resume. 
 All though Pandas could be used for this, we want to explore the power of Aparche Spark.
 
-Here is the [link](https://github.com/Akwensi/Batch-Processing-for-Data-Mining_project2)? to the **Jupiter Notebook** file used in the project.  
+Here is the [link](https://github.com/Akwensi/Batch-Processing-for-Data-Mining_project2) to the **Jupiter Notebook** file used in the project.  
 
 *PySpark* and *Amazon Simple Storage Service(S3)* are the main technologies used in this project.
  

@@ -1,14 +1,21 @@
 ---
-title: "Web Scraping with BeautifulSoup"
+title: "Web Scraping"
 date: 2019-11-14
 tags: [web scraping, scraping, batch processing, BeautifulSoup, requests, data mining]
 header:
   image: "/webscraping.jpg"
 excerpt: "Data engineering, Data Science, web scraping"
 mathjax: "true"
+
+title: "Basic ETL Project"
+date: 2018-01-28
+tags: [extract, transform, load data science, data]
+header:
+  image: "/images/data-engineering-2.jpeg.jpeg"
+excerpt: "Data engineering, Data Science, Data"
+mathjax: "true"
 ---
 
-# Web Scraping
 
 This project sought to generate data on listings from a real estate website that can be used to study the type, location, pricing etc of the listings on the site. 
 
@@ -20,7 +27,7 @@ NB: Because Scraping is an iterative process, there is the need to scrape each o
 
 ## Task:
 
-Write a python script that scrapes for info from meqasa and outputs a CSV file with the following structure:
+Write a python script that scrapes for info from meqasa and outputs a CSV file with the following columns:
 
 property 
 beds
@@ -35,9 +42,9 @@ url
 address
 time_posted
 Property name
-# of beds
-# of showers
-# of garages
+of beds
+of showers 
+of garages
 Size of property
 Description of property
 Price of property

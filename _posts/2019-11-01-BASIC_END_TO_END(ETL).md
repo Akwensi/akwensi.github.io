@@ -1,18 +1,24 @@
 ---
-title: "End to end ETL"
+title: "End to end ETL pipeline"
 date: 2019-11-14
 tags: [batch processing, transform, spark, pyspark, data mining, ngrams, bigrams trigrams]
 header:
   image: "/end to end.png"
 excerpt: "Data engineering, Data Science, ngrams, trigrams"
 mathjax: "true"
----
 
-# End To End ETL
+title: "Basic ETL Project"
+date: 2018-01-28
+tags: [extract, transform, load data science, data]
+header:
+  image: "/images/data-engineering-2.jpeg.jpeg"
+excerpt: "Data engineering, Data Science, Data"
+mathjax: "true"
+---
 
 In this project we worked with a relational database to extract data across different tables by connecing the databases directly thus End To End ETL.
 
-Here is the [link](https://github.com/Akwensi/BASIC-END-TO-END-ETL-PIPELINE-_project3)? to the **Jupiter Notebook** and **SQL** scripts generated in this project.  
+Here is the [link](https://github.com/Akwensi/BASIC-END-TO-END-ETL-PIPELINE-_project3) to the **Jupiter Notebook** and **SQL** scripts generated in this project.  
 
 The main technologies used in this project were:
     1. Aparche PySpark
